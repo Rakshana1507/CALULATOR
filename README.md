@@ -1,2 +1,2 @@
 # CALULATOR
-osasis intership 
+oasis intership 
